@@ -51,7 +51,7 @@ export const basins: Basin[] = [
   {
     id: "mission-south",
     name: "Mission South",
-    image: "/images/kicking-horse-reservoir.jpeg",
+    image: "images/kicking-horse-reservoir.jpeg",
     acres: 39200,
     canalsMiles: 340,
     forecastAf: 135000,
@@ -92,7 +92,7 @@ export const basins: Basin[] = [
   {
     id: "mission-north",
     name: "Mission North",
-    image: "/images/mcdonald-lake.jpeg",
+    image: "images/mcdonald-lake.jpeg",
     acres: 31800,
     canalsMiles: 290,
     forecastAf: 111500,
@@ -132,7 +132,7 @@ export const basins: Basin[] = [
   {
     id: "jocko",
     name: "Jocko",
-    image: "/images/flathead-river.jpeg",
+    image: "images/flathead-river.jpeg",
     acres: 28600,
     canalsMiles: 250,
     forecastAf: 94400,
@@ -172,7 +172,7 @@ export const basins: Basin[] = [
   {
     id: "little-bitterroot",
     name: "Little Bitterroot",
-    image: "/images/flathead-river.jpeg",
+    image: "images/flathead-river.jpeg",
     acres: 17400,
     canalsMiles: 220,
     forecastAf: 52200,
